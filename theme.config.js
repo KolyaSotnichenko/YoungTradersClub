@@ -26,7 +26,7 @@ export default {
       <meta name="twitter:url" content="https://nextra.vercel.app" />
       <meta name="og:title" content="YTC
 Сайт для трейдерів початківців" />
-      {/* <meta name="og:image" content="https://nextra.vercel.app/og.png" /> */}
+      <meta name="og:image" content="https://young-traders-club.vercel.app/og.png" />
       <meta name="apple-mobile-web-app-title" content="YTC" />
       <link
         rel="apple-touch-icon"
