@@ -21,7 +21,7 @@ export default {
       <meta name="og:description" content="YTC
 Сайт для трейдерів початківців" />
       <meta name="twitter:card" content="summary_large_image" />
-      {/* <meta name="twitter:image" content="https://nextra.vercel.app/og.png" /> */}
+      <meta name="twitter:image" content="https://young-traders-club.vercel.app/og.png" />
       <meta name="twitter:site:domain" content="nextra.vercel.app" />
       <meta name="twitter:url" content="https://nextra.vercel.app" />
       <meta name="og:title" content="YTC
