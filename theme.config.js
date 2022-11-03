@@ -1,6 +1,6 @@
 export default {
-  github: 'https://github.com/shuding/nextra',
-  docsRepositoryBase: 'https://github.com/shuding/nextra/blob/master',
+  github: 'https://github.com/KolyaSotnichenko/YoungTradersClub',
+  docsRepositoryBase: 'https://github.com/KolyaSotnichenko/YoungTradersClub',
   titleSuffix: ' – Yong traders club',
   logo: (
     <>
@@ -24,7 +24,7 @@ export default {
       <meta name="twitter:url" content="https://nextra.vercel.app" />
       <meta name="og:title" content="Nextra: Next.js static site generator" />
       <meta name="og:image" content="https://nextra.vercel.app/og.png" />
-      <meta name="apple-mobile-web-app-title" content="Nextra" />
+      <meta name="apple-mobile-web-app-title" content="YTC" />
       <link
         rel="apple-touch-icon"
         sizes="180x180"
